@@ -6,7 +6,7 @@
 name:               "alpha"
 
 # URL
-baseurl:            ""
+baseurl:            "/Blog"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
