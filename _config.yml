@@ -17,8 +17,8 @@ permalink:          /:year/:month/:day/:title.html
 nav:
   - name:           "github"
     href:           "//github.com/AlphaShawn"
-  #- name:           "Download"
-  #  href:           "//github.com/gfjaru/Kiko/releases"
+  # - name:           "category"
+  #   href:           "/Blog/categories"
 
 # Sass
 sass:
