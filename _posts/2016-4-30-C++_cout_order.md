@@ -18,7 +18,7 @@ int f(int &x, int &y) {
 
 int main()
 {
-	int x = 3, y = 4;
+  int x = 3, y = 4;
   cout<<f(x,y)<<' '<<x<<' '<<y<<endl;
 }
 {% endhighlight %}
@@ -40,7 +40,7 @@ q.push(5);
 cout<<q.pop()<<" "<<q.pop();
 {% endhighlight %}
 
-进队以后，队列`q:3 5`,则出队时候先5再3.
+进队以后，队列`q:3 5`,则出队时候先3再5.
 
 但是经过`cout`以后，反而输出是`5 3`.
 
