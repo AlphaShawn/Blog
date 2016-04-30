@@ -19,7 +19,7 @@ int f(int &x, int &y) {
 int main()
 {
 	int x = 3, y = 4;
-    cout<<f(x,y)<<' '<<x<<' '<<y<<endl;
+  cout<<f(x,y)<<' '<<x<<' '<<y<<endl;
 }
 {% endhighlight %}
 
