@@ -11,12 +11,13 @@ baseurl:            "/Blog"
 permalink:          /:year/:month/:day/:title.html
 
 # Markdown
+markdown:           kramdown
 # markdown:           rdiscount
 
 # Navigation
 nav:
   - name:           "github"
-    href:           "//github.com/AlphaShawn"
+    href:           "//github.com/AlphaXiao"
   # - name:           "category"
   #   href:           "/Blog/categories"
 
@@ -38,3 +39,5 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
+
+
