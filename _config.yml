@@ -24,6 +24,8 @@ nav:
 # Sass
 sass:
   style:            :compressed
+  
+highlighter: rouge
 
 # Scopes
 defaults:
